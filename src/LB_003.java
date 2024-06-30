@@ -8,5 +8,13 @@ public class LB_003 {
         float pi =3.14F;
         boolean isAdult= true;
 
+        System.out.println("Print integer value:" + number);
+        System.out.println("Print letter:" + letter);
+        System.out.println("Print Phone number:" + phoneN);
+        System.out.println("Print Pi value:" + pi);
+        System.out.println("Print isAdult:" + isAdult);
+
+
+
     }
 }
