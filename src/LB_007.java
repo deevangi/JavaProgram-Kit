@@ -9,6 +9,7 @@ public class LB_007 {
         //System.out.println(final[0][0]);
 
        System.out.println(marks[0]);
+       
 
 
 
